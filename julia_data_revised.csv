@@ -1,0 +1,34 @@
+﻿,item,Name,Price,r_Lk,r_Uk,Bottle,Cans,IPA,Stout,Ale,Lager,Sour
+1,KO008,Kona Longboard Lager,5.5,0.11427,0,0,1,0,0,0,1,0
+2,PB005,Pabst Blue Ribbon Lager (Can),4.5,0.0342,0,0,1,0,0,0,1,0
+3,KO002,Kona Big Wave Golden Ale,5.5,0.08674,0,0,1,0,0,1,0,0
+4,4P001,4 Pines Pacific Ale (Btl),5,0.0734,0,1,0,0,0,1,0,0
+5,NB007,New Belgium Voodoo Ranger IPA,7,0.03587,0.07587,0,1,1,0,0,0,0
+6,CB004,Colonial Pale Ale,6,0.0342,0.0742,0,1,0,0,1,0,0
+7,CB003,Colonial Draught Golden Ale,5.5,0.0342,0.0742,0,1,0,0,1,0,0
+8,LC011,Lost Coast Revenant IPA,7,0.03337,0.07337,1,0,1,0,0,0,0
+9,NB002,New Belgium Voodoo Ranger Juicy Hazy IPA,7,0.0167,0.0567,0,1,1,0,0,0,0
+10,ME002,Mother Earth Cali Creamin' Vanilla Cream Ale,6.5,0.01586,0.05586,0,1,0,0,1,0,0
+11,LC033,Lost Coast Hazy IPA,6.5,0.01003,0.05003,0,1,1,0,0,0,0
+12,LC007,Lost Coast Great White Wheat Ale (Can),6,0.09926,0.13926,0,1,0,0,1,0,0
+13,GF009,Green Flash West Coast IPA,7.5,0.00669,0.04669,0,1,1,0,0,0,0
+14,CB007,Colonial Porter,7.5,0.00335,0.04335,0,1,0,1,0,0,0
+15,GF019,Green Flash Saturhaze Session Hazy IPA,6,0.00252,0.04252,0,1,1,0,0,0,0
+16,GF008,Green Flash Tropical DNA Hazy IPA,6.5,0.00252,0.04252,0,1,1,0,0,0,0
+17,HA010,"Hawkers ""Beneath The Trees We Gather"" Yuzu & Plum Sour",7,0.00085,0.04085,0,1,0,0,0,0,1
+18,LC013,Lost Coast Sharkinator White IPA,6,0.00502,0.04502,1,0,1,0,0,0,0
+19,NB001,New Belgium Fat Tire Amber Ale,6,0,0.03751,0,1,0,0,1,0,0
+20,LC018,Lost Coast Watermelon Wheat Ale,6,0,0.03751,0,1,0,0,1,0,0
+21,LC016,Lost Coast Tangerine Wheat Ale,6,0,0.03668,0,1,0,0,1,0,0
+22,LC022,Lost Coast Peanut Butter Chocolate Milk Stout,7,0.00585,0.04585,1,0,0,1,0,0,0
+23,KA002,Kaiju Main Squeeze Passion Guava Session Ale,6,0,0.03501,0,1,0,0,1,0,0
+24,GF004,Green Flash Soul Style IPA,6.5,0,0.03251,0,1,1,0,0,0,0
+25,CB001,Colonial IPA,6.5,0,0.03001,0,1,1,0,0,0,0
+26,KA003,Kaiju Krush Tropical Pale Ale,6,0,0.02917,0,1,0,0,1,0,0
+27,LC004,Lost Coast 8 Ball Stout,6,0,0.02834,1,0,0,1,0,0,0
+28,KA005,Kaiju Metamorphosis IPA,7,0,0.02834,0,1,1,0,0,0,0
+29,HG006,Holgate Session Pale Ale,5,0,0.02751,0,1,0,0,1,0,0
+30,ME009,Mother Earth Milk Truck Vanilla Latte Coffee Stout,7,0,0.02584,0,1,1,0,0,0,0
+31,HG008,Holgate Blush Wild Berry Sour Ale,6,0,0.025,0,1,0,0,0,0,1
+32,HA009,"Hawkers ""Into The Forest I Go"" Berry Kettle Sour",6,0,0.025,0,1,0,0,0,0,1
+33,CB005,Colonial Small Ale,5,0,0.025,0,1,0,0,1,0,0
